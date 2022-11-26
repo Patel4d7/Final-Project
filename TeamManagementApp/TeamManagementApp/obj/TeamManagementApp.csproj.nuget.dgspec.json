@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SLB Assignment\\ServiceBus\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj": {}
+    "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\SLB Assignment\\ServiceBus\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj": {
+    "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SLB Assignment\\ServiceBus\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj",
         "projectName": "TeamManagementApp",
-        "projectPath": "C:\\SLB Assignment\\ServiceBus\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj",
+        "projectPath": "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj",
         "packagesPath": "C:\\Users\\Sahil.Verma\\.nuget\\packages\\",
-        "outputPath": "C:\\SLB Assignment\\ServiceBus\\TeamManagementApp\\TeamManagementApp\\obj\\",
+        "outputPath": "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.31, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
