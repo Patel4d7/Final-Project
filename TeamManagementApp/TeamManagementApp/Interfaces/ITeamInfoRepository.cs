@@ -5,15 +5,15 @@ using TeamManagementApp.Models;
 
 namespace TeamManagementApp.Interfaces
 {
-    public interface ITeamInfoService
+    public interface ITeamInfoRepository
     {
         public Task<List<MemberInfoDTO>> GetMembersInfo();
 
-        public Task<MemberInfoDTO> GetMember(int ID);
+        public Task<MemberInfoDTO> GetMemberInfo(int ID);
 
-        public Task<bool> AddMemberInfo(int ID, MemberInfoDTO info);
+        public Task<bool> AddMemberInfo(int ID, TeamInfo info);
 
-        public Task<TeamInfo> UpdateInfo(MemberInfoDTO member, int ID);
+        public Task<TeamInfo> UpdateInfo(TeamInfo memberInfo, int ID);
 
         public Task<string> DeleteMemberInfo(int ID);
     }

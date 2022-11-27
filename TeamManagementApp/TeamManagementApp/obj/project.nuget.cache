@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "G9b+4kvncVNq7QAhVJBqI6Aw9ik/VOZxW0UAxy+a9nDxWnHDR/YI58sqHyjng1MIpRt+oRgQLUx80wq3uJE9mg==",
+  "dgSpecHash": "fKI0So+6mV4DIztgX8WwozOnNT55iyITdC6VaiN4kwD9U8bW1HzhMSdw9T/JvggZ9gaOSFeVtrUdtxUejghqNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sahil.Verma\\Desktop\\Team Management App\\TeamManagementApp\\TeamManagementApp\\TeamManagementApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sahil.Verma\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Sahil.Verma\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Sahil.Verma\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\Sahil.Verma\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

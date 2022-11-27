@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -13,6 +14,8 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using TeamManagementApp.Database;
+using TeamManagementApp.Interfaces;
+using TeamManagementApp.Repository;
 
 namespace TeamManagementApp
 {
@@ -40,6 +43,16 @@ namespace TeamManagementApp
                     Description = "A simple example to Implement Swagger UI",
                 });
             });
+
+            var config = new MapperConfiguration(cfg =>
+            {
+                cfg.AddProfile(new AutoMapperProfile());
+            });
+
+            var mapper = config.CreateMapper();
+
+            services.AddSingleton(mapper);
+            services.AddServices();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

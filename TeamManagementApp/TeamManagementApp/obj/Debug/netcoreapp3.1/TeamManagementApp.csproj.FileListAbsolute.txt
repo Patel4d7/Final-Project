@@ -123,3 +123,4 @@ C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagemen
 C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.dll
 C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.pdb
 C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.genruntimeconfig.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
