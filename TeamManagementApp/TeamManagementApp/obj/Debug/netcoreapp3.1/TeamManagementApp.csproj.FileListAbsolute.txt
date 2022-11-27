@@ -1,0 +1,126 @@
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.exe
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.deps.json
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.runtimeconfig.json
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.runtimeconfig.dev.json
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.pdb
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.AssemblyReference.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.AssemblyInfoInputs.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.AssemblyInfo.cs
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.CoreCompileInputs.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.MvcApplicationPartsAssemblyInfo.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\staticwebassets\TeamManagementApp.StaticWebAssets.Manifest.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.RazorTargetAssemblyInfo.cache
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.CopyComplete
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.dll
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.pdb
+C:\SLB Assignment\ServiceBus\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.genruntimeconfig.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.exe
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.deps.json
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.runtimeconfig.json
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.runtimeconfig.dev.json
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\TeamManagementApp.pdb
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.AssemblyReference.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.AssemblyInfoInputs.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.AssemblyInfo.cs
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\staticwebassets\TeamManagementApp.StaticWebAssets.Manifest.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.RazorTargetAssemblyInfo.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.csproj.CopyComplete
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.dll
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.pdb
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\obj\Debug\netcoreapp3.1\TeamManagementApp.genruntimeconfig.cache
+C:\Users\Sahil.Verma\Desktop\Team Management App\TeamManagementApp\TeamManagementApp\bin\Debug\netcoreapp3.1\AutoMapper.dll
